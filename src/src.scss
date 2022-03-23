@@ -1,0 +1,11 @@
+.test{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: center;
+    div{
+        width: 20%;
+        background-color: white;
+        height: 28%;
+    }
+}
